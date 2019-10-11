@@ -1,7 +1,7 @@
 # AMARO CASE STUDY - Weather Forecast Data
 
 ### Goal: 
-You need to create an application based on the User Story section below. On the internal side of your application, you will need to query data from a sources and manipulate the data.
+You need to create an application based on the User Story section below. On the internal side of your application, you will need to query data from a source and manipulate the data.
 
 ![enter image description here](https://i.redd.it/m65gncn88j7y.png)
 
@@ -35,4 +35,4 @@ Note that we believe we believe in the zen of python principles [https://www.pyt
 2.  It is ok to build a quick and smart solution which might include technical debts: Do you see any technical debts?
 3.  Did you enjoy the task? If yes or no, why?
 4.  What did you learn? What went good? Where did you have challenges?
-5. What user use cases do you see to use this data?
+5.  What are the use cases you see for this data?
